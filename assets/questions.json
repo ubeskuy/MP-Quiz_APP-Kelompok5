@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Sebuah partikel bergerak dengan persamaan posisi x(t) = 2t³ - 4t² + 3t - 1. Hitung percepatan saat t = 2s!",
+    "options": ["8 m/s²", "12 m/s²", "16 m/s²", "20 m/s²"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Dalam sistem biner diam, dua bintang bermassa 2M dan M mengorbit pusat massa bersama. Jika jarak antar bintang adalah d, hitung periode orbit sistem!",
+    "options": [
+      "T = 2π√(d³/(3GM))",
+      "T = 2π√(d³/(2GM))",
+      "T = 2π√(d³/(GM))",
+      "T = π√(d³/(3GM))"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Sebuah kawat superkonduktor panjang dialiri arus 5A. Hitung medan magnet 2 cm dari kawat!",
+    "options": ["5×10⁻⁵ T", "5×10⁻⁶ T", "5×10⁻⁷ T", "5×10⁻⁸ T"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Sebuah termometer gas ideal menunjukkan tekanan 1.5 atm pada titik tripel air. Hitung temperatur saat tekanan 2 atm!",
+    "options": ["409.5 K", "450.2 K", "273.15 K", "546.3 K"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Sebuah sistem pegas-massa melakukan osilasi dengan energi mekanik 0.5 J. Jika amplitudo digandakan, energi baru sistem adalah...",
+    "options": ["0.5 J", "1 J", "2 J", "4 J"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Sebuah lensa tipis konvergen (f = 20 cm) membentuk bayangan nyata dengan perbesaran 2x. Jarak benda adalah...",
+    "options": ["10 cm", "15 cm", "30 cm", "40 cm"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Partikel α dengan energi kinetik 5 MeV mendekati inti emas (Z=79). Jarak terdekat yang dapat dicapai adalah...",
+    "options": ["4.5×10⁻¹⁴ m", "2.3×10⁻¹³ m", "1.1×10⁻¹² m", "5.6×10⁻¹² m"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Sebuah tabung resonansi menghasilkan bunyi nada dasar pada panjang 25 cm. Jika kecepatan bunyi 340 m/s, frekuensi adalah...",
+    "options": ["340 Hz", "680 Hz", "1360 Hz", "1700 Hz"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Sebuah roket bergerak dengan kecepatan 0.8c melepaskan muatan ke arah gerak. Kecepatan muatan relatif terhadap bumi jika kecepatan relatif terhadap roket 0.6c adalah...",
+    "options": ["0.86c", "0.92c", "0.95c", "1.4c"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Sebuah sistem kuantum memiliki fungsi gelombang ψ(x) = A sin(nπx/L). Probabilitas partikel berada di 0 < x < L/3 untuk n=2 adalah...",
+    "options": ["1/3", "1/4", "1/6", "1/12"],
+    "correctAnswerIndex": 0
+  }
+]
