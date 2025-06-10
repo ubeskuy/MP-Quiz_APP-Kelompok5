@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'quiz_screen.dart';
 
-// CODE CREATED By Wahyu Hidayatulloh X AI
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
